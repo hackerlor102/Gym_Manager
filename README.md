@@ -12,3 +12,4 @@ gym-management/
 ├── css/
 ├── js/
 └── images/
+
